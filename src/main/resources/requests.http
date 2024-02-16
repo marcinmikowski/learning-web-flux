@@ -1,0 +1,11 @@
+### Get square
+GET http://localhost:8080/math/square/4
+
+### Table square
+GET http://localhost:8080/math/table/6
+
+### Get reactive square
+GET http://localhost:8080/reactive-math/square/4
+
+### Table reactive square
+GET http://localhost:8080/reactive-math/table/6
